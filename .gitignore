@@ -1,0 +1,16 @@
+# Python
+dist/
+*.egg-info/
+.mypy_cache/
+__pycache__/
+.pytest_cache/
+.ropeproject/
+
+
+# Documentation
+docs/
+
+
+# Visual Studio Code
+.vscode/*.log
+*.code-workspace
